@@ -68,11 +68,41 @@ The implementations for these densest subgraph algorithms can be found at:
 
 **Source code:** [https://github.com/JayLZhou/DensestSubgraph](https://github.com/JayLZhou/DensestSubgraph)
 
-[13] KClist++: A Simple Algorithm for Finding k-Clique Densest Subgraphs in Large Graphs" (Bintao Sun, Maximilien Danisch, T-H. Hubert Chan, Mauro Sozio; PVLDB 2020
+[13] C Tsourakakis. The k-clique densest subgraph problem, in WWW 2015.
+
+**Source code:** [https://github.com/tsourolampis/triangle-densest-subgraph-problem](https://github.com/tsourolampis/triangle-densest-subgraph-problem)
+
+[14] KClist++: A Simple Algorithm for Finding k-Clique Densest Subgraphs in Large Graphs" (Bintao Sun, Maximilien Danisch, T-H. Hubert Chan, Mauro Sozio; PVLDB 2020
 
 **Source code:** [https://github.com/btsun/kclistpp](https://github.com/btsun/kclistpp)
 
-[14] Y. Zhou, Q. Guo, Y. Fang, and C. Ma, “A counting-based approach for efficient k-clique densest subgraph discovery,” Proceedings of the ACM on Management of Data, vol. 2, no. 3, pp. 1–27, 2024.
+[15] Y. Zhou, Q. Guo, Y. Fang, and C. Ma, “A counting-based approach for efficient k-clique densest subgraph discovery,” Proceedings of the ACM on Management of Data, vol. 2, no. 3, pp. 1–27, 2024.
 
 **Source code:** [https://github.com/forxenn/KCCA](https://github.com/forxenn/KCCA)
+
+## III: DSD variants
+
+**Density-friendly graph decomposition:** 
+
+[16] N. Tatti and A. Gionis, Density-friendly graph decomposition. In WWW, 2015, pp. 1089–1099. 
+
+[17] M. Danisch, T. H. H. Chan and M. Sozio, Large Scale Density-friendly Graph Decomposition via Convex Programming. In WWW, 2017.
+
+**Source code:** [https://github.com/maxdan94/Density-Friendly](https://github.com/maxdan94/Density-Friendly)
+
+
+**Locally densest subgraph:** 
+
+[18] C Ma, R Cheng, LVS Lakshmanan, X Han, Finding locally densest subgraphs: a convex programming approach. In VLDB 2022.
+
+**Source code:** [https://github.com/chenhao-ma/LDScvx](https://github.com/chenhao-ma/LDScvx)
+
+
+**Anchored densest subgraph:** 
+
+[19] Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, Longlong Lin, and Guoren Wang. 2024. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. In KDD 24.
+
+**Source code:** [https://github.com/LightWant/nrdensity](https://github.com/LightWant/nrdensity)
+
+
 
