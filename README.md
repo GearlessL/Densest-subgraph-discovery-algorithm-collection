@@ -80,29 +80,40 @@ The implementations for these densest subgraph algorithms can be found at:
 
 **Source code:** [https://github.com/forxenn/KCCA](https://github.com/forxenn/KCCA)
 
-## III: DSD variants
 
-**Density-friendly graph decomposition:** 
+## III: DSD Variants
 
-[16] N. Tatti and A. Gionis, Density-friendly graph decomposition. In WWW, 2015, pp. 1089–1099. 
+### Density-friendly Graph Decomposition
 
-[17] M. Danisch, T. H. H. Chan and M. Sozio, Large Scale Density-friendly Graph Decomposition via Convex Programming. In WWW, 2017.
+[16] N. Tatti and A. Gionis. 2015. Density-friendly graph decomposition. In *WWW*, 1089–1099.
+
+[17] M. Danisch, T. H. H. Chan, and M. Sozio. 2017. Large scale density-friendly graph decomposition via convex programming. In *WWW*, 233–242.
 
 **Source code:** [https://github.com/maxdan94/Density-Friendly](https://github.com/maxdan94/Density-Friendly)
 
+---
 
-**Locally densest subgraph:** 
+### Locally Densest Subgraph
 
-[18] C Ma, R Cheng, LVS Lakshmanan, X Han, Finding locally densest subgraphs: a convex programming approach. In VLDB 2022.
+[18] C. Ma, R. Cheng, L. V. S. Lakshmanan, and X. Han. 2022. Finding locally densest subgraphs: a convex programming approach. In *VLDB*, 2719–2732.
 
 **Source code:** [https://github.com/chenhao-ma/LDScvx](https://github.com/chenhao-ma/LDScvx)
 
+---
 
-**Anchored densest subgraph:** 
+### Anchored Densest Subgraph
 
-[19] Xiaowei Ye, Rong-Hua Li, Lei Liang, Zhizhen Liu, Longlong Lin, and Guoren Wang. 2024. Efficient and Effective Anchored Densest Subgraph Search: A Convex-programming based Approach. In KDD 24.
+[19] X. Ye, R.-H. Li, L. Liang, Z. Liu, L. Lin, and G. Wang. 2024. Efficient and effective anchored densest subgraph search: a convex-programming based approach. In *KDD*.
 
 **Source code:** [https://github.com/LightWant/nrdensity](https://github.com/LightWant/nrdensity)
+
+---
+
+### Deconstruct Densest Subgraph
+
+[20] L. Chang and M. Qiao. 2020. Deconstruct densest subgraphs. In *WWW*, 2747–2753.
+
+**Source code:** [https://github.com/LijunChang/Cohesive_subgraph_book/tree/master/densest_subgraph](https://github.com/LijunChang/Cohesive_subgraph_book/tree/master/densest_subgraph)
 
 
 
