@@ -64,7 +64,15 @@ The implementations for these densest subgraph algorithms can be found at:
 
 ## II: k-clique DSD Works
 
+[2] Yixiang Fang, Kaiqiang Yu, Reynold Cheng, Laks VS Lakshmanan, and Xuemin Lin. 2019. Efficient algorithms for densest subgraph discovery. PVLDB 12, 11(2019), 1719–1732.
+
+**Source code:** [https://github.com/JayLZhou/DensestSubgraph](https://github.com/JayLZhou/DensestSubgraph)
+
 [13] KClist++: A Simple Algorithm for Finding k-Clique Densest Subgraphs in Large Graphs" (Bintao Sun, Maximilien Danisch, T-H. Hubert Chan, Mauro Sozio; PVLDB 2020
 
 **Source code:** [https://github.com/btsun/kclistpp](https://github.com/btsun/kclistpp)
+
+[14] Y. Zhou, Q. Guo, Y. Fang, and C. Ma, “A counting-based approach for efficient k-clique densest subgraph discovery,” Proceedings of the ACM on Management of Data, vol. 2, no. 3, pp. 1–27, 2024.
+
+**Source code:** [https://github.com/forxenn/KCCA](https://github.com/forxenn/KCCA)
 
